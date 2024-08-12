@@ -1,5 +1,5 @@
 <h1>Hi, I'm Luke! <br/><a>Computer Engineering Student @ UCI (2027 Graduation Date)</a> </h1>
-- Interested in FPGA and ASIC engineering/verification
+
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
