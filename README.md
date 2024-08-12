@@ -4,7 +4,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Python Coding Projects</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Hello World Test Project](https://github.com/luke-j-cheng/hellowrld)
 - <b>HDL Coding Projects</b>
   - .
 - <b>C Coding Projects</b>
