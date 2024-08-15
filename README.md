@@ -1,4 +1,4 @@
-<h1>Hi, I'm Luke! <br/><a>Computer Engineering Student @ UCI (2027 Graduation Date)</a> </h1>
+<h1>Hi, I'm Luke! </h1> <br/><a><h2>Computer Engineering Student @ UCI (2027 Graduation Date)</a> </h2>
 
 
 <h2>👨‍💻 Software Development Projects:</h2>
