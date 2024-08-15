@@ -3,15 +3,13 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Python Coding Projects</b>
+- <h3><b>Python Coding Projects</b></h3>
   - [Hello World Test Project](https://github.com/luke-j-cheng/hellowrld)
-- <b>HDL Coding Projects</b>
-  - [Simple Verilog Counter](https://github.com/luke-j-cheng/Counter)
-- <b>C Coding Projects</b>
+- <h3><b>C Coding Projects</b></h3>
   - .
-<h2>📺 Popular YouTube Videos</h2>
+<h2>💻 HDL Coding Projects</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Simple Verilog Counter](https://github.com/luke-j-cheng/Counter)
 
 
 <h2> 🤳 Connect with me:</h2>
