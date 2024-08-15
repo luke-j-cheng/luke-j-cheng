@@ -9,7 +9,7 @@
   - .
 <h2>💻 HDL Coding Projects</h2>
 
-- [Simple Verilog Counter](https://github.com/luke-j-cheng/Counter)
+- <b>[Simple Verilog Counter]</b>(https://github.com/luke-j-cheng/Counter)
 
 
 <h2> 🤳 Connect with me:</h2>
