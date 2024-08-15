@@ -6,7 +6,7 @@
 - <b>Python Coding Projects</b>
   - [Hello World Test Project](https://github.com/luke-j-cheng/hellowrld)
 - <b>HDL Coding Projects</b>
-  - .
+  - [Simple Verilog Counter](https://github.com/luke-j-cheng/Counter)
 - <b>C Coding Projects</b>
   - .
 <h2>📺 Popular YouTube Videos</h2>
