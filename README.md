@@ -9,14 +9,14 @@
   - .
 <h2>💻 HDL Coding Projects</h2>
 
-- <h4><b>[Simple Verilog Counter](https://github.com/luke-j-cheng/Counter)</b></h4>
+- <b>[Simple Verilog Counter](https://github.com/luke-j-cheng/Counter)</b>
 
 
 <h2> 🤳 Connect with me:</h2>
 
-- [LinkedIn](https://www.linkedin.com/in/luke-cheng-73a855294/)
-- lujo.cheng12@gmail.com
-- 425-638-9075
+- <b>[LinkedIn](https://www.linkedin.com/in/luke-cheng-73a855294/)</b>
+- <b>lujo.cheng12@gmail.com</b>
+- <b>425-638-9075</b>
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
