@@ -18,9 +18,15 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-- <b>[LinkedIn](https://www.linkedin.com/in/luke-cheng-73a855294/)</b>
-- <b>lujo.cheng12@gmail.com</b>
-- <b>425-638-9075</b>
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[youtube]: https://www.youtube.com/@lukecheng6644
+[linkedin]: https://www.linkedin.com/in/luke-cheng-73a855294/
+
+
+<br/><b>lujo.cheng12@gmail.com</b>
+<br/><b>425-638-9075</b>
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
