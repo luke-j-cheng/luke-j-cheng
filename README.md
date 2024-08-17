@@ -13,7 +13,7 @@
   - .
 <h2>💻 HDL Coding Projects</h2>
 
-- <b>[Simple Verilog Counter](https://github.com/luke-j-cheng/Counter)</b>
+- <b>[Simple FPGA Counter (Verilog)](https://github.com/luke-j-cheng/Counter)</b>
 
 
 <h2> 🤳 Connect with me:</h2>
