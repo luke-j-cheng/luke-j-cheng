@@ -11,7 +11,7 @@
   - .
 - <h3><b>C Coding Projects</b></h3>
   - .
-<h2>💻 HDL Coding Projects</h2>
+<h2>💻 HDL, RTL, FPGA Projects</h2>
 
 - <b>[Simple FPGA Counter (Verilog)](https://github.com/luke-j-cheng/Counter)</b>
 
