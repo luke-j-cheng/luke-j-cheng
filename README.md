@@ -8,7 +8,8 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <h3><b>Python Coding Projects</b></h3>
-  - .
+  
+  - <b>[Poker Simulator](https://github.com/luke-j-cheng/PokerSim)</b>
 - <h3><b>C Coding Projects</b></h3>
   - .
 <h2>💻 HDL, RTL, FPGA Projects</h2>
