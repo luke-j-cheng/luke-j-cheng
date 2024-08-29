@@ -26,7 +26,8 @@
 [linkedin]: https://www.linkedin.com/in/luke-cheng-73a855294/
 
 
-<br/><b>lujo.cheng12@gmail.com</b>
+<br/>
+<b>lujo.cheng12@gmail.com</b>
 <br/><b>425-638-9075</b>
 
 <!--
