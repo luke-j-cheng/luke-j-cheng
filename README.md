@@ -14,7 +14,9 @@
   - .
 <h2>💻 HDL, RTL, FPGA Projects</h2>
 
-- <b>[Simple FPGA Counter (Verilog)](https://github.com/luke-j-cheng/Counter)</b>
+- <b>[Simple FPGA Counter (Verilog)](https://github.com/luke-j-cheng/Counter)
+- [FPGA Pong VGA (Verilog)](https://github.com/luke-j-cheng/FPGA-Pong)</b>
+
 
 
 <h2> 🤳 Connect with me:</h2>
