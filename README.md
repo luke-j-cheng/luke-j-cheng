@@ -37,5 +37,5 @@
 - <b> ⚽Soccer (BIG Manchester United Fan)
 - 🏀 Basketball
 - 🏃 Running and Gym
-- 🎮 Video Games (Nintendo, League, Valorant)
+- 🎮 Video Games (Pokemon, League of Legends, FIFA)
 </b>
