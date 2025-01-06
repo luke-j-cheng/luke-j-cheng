@@ -12,7 +12,7 @@
   - <b>[Poker Simulator](https://github.com/luke-j-cheng/PokerSim)</b>
 - <h3><b>C Coding Projects</b></h3>
   - .
-<h2>💻 HDL, RTL, FPGA Projects</h2>
+<h2>💻 FPGA Projects</h2>
 
 - <b>[Simple FPGA Counter (Verilog)](https://github.com/luke-j-cheng/Counter)
 - [FPGA Digital Watch (Verilog)](https://github.com/luke-j-cheng/FPGA_Watch)</b>
