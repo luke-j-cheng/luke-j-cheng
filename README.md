@@ -15,7 +15,7 @@
 <h2>💻 FPGA Projects</h2>
 
 - <b>[Simple FPGA Counter (Verilog)](https://github.com/luke-j-cheng/Counter)
-- [FPGA Digital Watch (Verilog)](https://github.com/luke-j-cheng/FPGA_Watch)</b>
+- [FPGA Digital Watch (Verilog)](https://github.com/luke-j-cheng/FPGA-Digital-Watch/tree/main)</b>
 
 
 
