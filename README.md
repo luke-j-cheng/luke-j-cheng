@@ -34,7 +34,7 @@
 
 <h2>Personal Life and Outside Interests</h2>
 
-- <b> ⚽Soccer (BIG Manchester United Fan)
+- <b> ⚽Soccer
 - 🏀 Basketball
 - 🏃 Running and Gym
 - 🎮 Video Games (Pokemon, League of Legends, FIFA)
