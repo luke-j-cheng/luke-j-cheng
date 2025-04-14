@@ -1,7 +1,7 @@
 <h1>Hi, I'm Luke! </h1> 
 <h3>About Me: </h3>
-  Computer Engineering Student @ UCI (2027 Graduation Date)
-  <br/> Interested in internships relating to Digital Design and FPGA Engineering
+  Computer Engineering Student @ UCI (2027 Graduation)
+  <br/> Interested in internships relating to Digital Logic Design, FPGA Engineering
   <br/> 
 
 
