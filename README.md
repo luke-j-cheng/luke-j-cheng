@@ -14,9 +14,12 @@
   - .
 <h2>💻 FPGA Projects</h2>
 
-- <b>[Simple FPGA Counter (Verilog)](https://github.com/luke-j-cheng/Counter)
+
+- <b>[32 bit MIPS Processor](https://github.com/luke-j-cheng/32-bit-MIPS-Processor)
 - [FPGA Digital Watch (Verilog)](https://github.com/luke-j-cheng/FPGA-Digital-Watch/tree/main)
-- [FPGA Soccer Game VGA(Verilog)](https://github.com/luke-j-cheng/FPGA-Pong)</b>
+- [FPGA Soccer Game VGA(Verilog)](https://github.com/luke-j-cheng/FPGA-Pong)
+- [Simple FPGA Counter (Verilog)](https://github.com/luke-j-cheng/Counter)</b>
+ 
 
 
 
