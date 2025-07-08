@@ -4,18 +4,11 @@
   <br/> Interested in internships relating to Digital Logic Design, FPGA Engineering
   <br/> 
 
-
-<h2>👨‍💻 Software Development Projects:</h2>
-
-- <h3><b>Python Coding Projects</b></h3>
-  
-  - <b>[Poker Simulator](https://github.com/luke-j-cheng/PokerSim)</b>
-- <h3><b>C Coding Projects</b></h3>
-  - .
-<h2>💻 FPGA Projects</h2>
+<h2>💻 RTL Projects</h2>
 
 
 - <b>[32 bit MIPS Processor](https://github.com/luke-j-cheng/32-bit-MIPS-Processor)
+- [SPI Protocol Implementation (SystemVerilog)](https://github.com/luke-j-cheng/SPI-Protocol)
 - [FPGA Digital Watch (Verilog)](https://github.com/luke-j-cheng/FPGA-Digital-Watch/tree/main)
 - [FPGA Soccer Game VGA(Verilog)](https://github.com/luke-j-cheng/FPGA-Pong)
 - [Simple FPGA Counter (Verilog)](https://github.com/luke-j-cheng/Counter)</b>
